@@ -34,7 +34,6 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 </details>
 
 ### Current Developers:
-- [Derpman](https://github.com/DerpmanDev)
 - [Fowntain](https://github.com/fowntain)
 ### Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
@@ -53,4 +52,4 @@ npm start
 Or simply run the `start.sh` file
 
 ### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/unblocking)
