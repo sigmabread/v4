@@ -8,10 +8,7 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "npm start",
-    "clone-repo": "git clone https://github.com/DogeNetwork/v4",
-    "install-deps": "cd v4 && npm install",
-    "start-v4": "cd v4 && npm start"
+    "postinstall": "git clone https://github.com/DogeNetwork/v4 && cd v4 && npm install && npm start"
   },
   "keywords": [],
   "author": "",
